@@ -1,0 +1,15 @@
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.AssemblyInfoInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.AssemblyInfo.cs
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.csproj.CoreCompileInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.sourcelink.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/bin/Debug/net8.0/02.CustomeStack
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/bin/Debug/net8.0/02.CustomeStack.deps.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/bin/Debug/net8.0/02.CustomeStack.runtimeconfig.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/bin/Debug/net8.0/02.CustomeStack.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/bin/Debug/net8.0/02.CustomeStack.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/refint/02.CustomeStack.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/02.CustomeStack.genruntimeconfig.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/02.CustomeStack/obj/Debug/net8.0/ref/02.CustomeStack.dll

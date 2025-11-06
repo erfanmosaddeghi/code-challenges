@@ -1,0 +1,15 @@
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/bin/Debug/net8.0/01.ReveresString
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/bin/Debug/net8.0/01.ReveresString.deps.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/bin/Debug/net8.0/01.ReveresString.runtimeconfig.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/bin/Debug/net8.0/01.ReveresString.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/bin/Debug/net8.0/01.ReveresString.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.AssemblyInfoInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.AssemblyInfo.cs
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.csproj.CoreCompileInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.sourcelink.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/refint/01.ReveresString.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/01.ReveresString.genruntimeconfig.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/01.ReveresString/obj/Debug/net8.0/ref/01.ReveresString.dll
