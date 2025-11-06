@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReveresString", "01.Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CustomeStack", "02.CustomeStack\02.CustomeStack.csproj", "{EF7F672C-AD60-4031-83B2-910288876022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TwoSum", "03.TwoSum\03.TwoSum.csproj", "{51725B45-693F-43AE-BF52-743030CAC002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EF7F672C-AD60-4031-83B2-910288876022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF7F672C-AD60-4031-83B2-910288876022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF7F672C-AD60-4031-83B2-910288876022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51725B45-693F-43AE-BF52-743030CAC002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51725B45-693F-43AE-BF52-743030CAC002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51725B45-693F-43AE-BF52-743030CAC002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51725B45-693F-43AE-BF52-743030CAC002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

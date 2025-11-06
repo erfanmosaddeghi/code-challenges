@@ -1,0 +1,15 @@
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/bin/Debug/net8.0/03.TwoSum
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/bin/Debug/net8.0/03.TwoSum.deps.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/bin/Debug/net8.0/03.TwoSum.runtimeconfig.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/bin/Debug/net8.0/03.TwoSum.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/bin/Debug/net8.0/03.TwoSum.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.AssemblyInfoInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.AssemblyInfo.cs
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.csproj.CoreCompileInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.sourcelink.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/refint/03.TwoSum.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/03.TwoSum.genruntimeconfig.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/03.TwoSum/obj/Debug/net8.0/ref/03.TwoSum.dll
