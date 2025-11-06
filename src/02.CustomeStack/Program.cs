@@ -41,6 +41,10 @@ class CustomStack<T>
         _myList.Add(item);
     }
 
+    public T Peek() => _myList.Last();
+
+    public bool IsEmpty() => _myList.Count == 0;
+
     public T Pop()
     {
         if (_myList.Count <= 0) throw new Exception("Not in Range!");
