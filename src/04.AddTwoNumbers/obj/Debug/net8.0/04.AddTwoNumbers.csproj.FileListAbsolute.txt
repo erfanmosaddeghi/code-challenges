@@ -1,0 +1,15 @@
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/bin/Debug/net8.0/04.AddTwoNumbers
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/bin/Debug/net8.0/04.AddTwoNumbers.deps.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/bin/Debug/net8.0/04.AddTwoNumbers.runtimeconfig.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/bin/Debug/net8.0/04.AddTwoNumbers.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/bin/Debug/net8.0/04.AddTwoNumbers.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.AssemblyInfoInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.AssemblyInfo.cs
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.sourcelink.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/refint/04.AddTwoNumbers.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/04.AddTwoNumbers.genruntimeconfig.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/04.AddTwoNumbers/obj/Debug/net8.0/ref/04.AddTwoNumbers.dll
