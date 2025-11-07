@@ -1,0 +1,15 @@
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/bin/Debug/net8.0/06.FindMedian
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/bin/Debug/net8.0/06.FindMedian.deps.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/bin/Debug/net8.0/06.FindMedian.runtimeconfig.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/bin/Debug/net8.0/06.FindMedian.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/bin/Debug/net8.0/06.FindMedian.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.AssemblyInfoInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.AssemblyInfo.cs
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.csproj.CoreCompileInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.sourcelink.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/refint/06.FindMedian.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/06.FindMedian.genruntimeconfig.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/06.FindMedian/obj/Debug/net8.0/ref/06.FindMedian.dll
