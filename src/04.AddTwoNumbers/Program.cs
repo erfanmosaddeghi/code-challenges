@@ -1,7 +1,5 @@
 ﻿using System.Text;
 
-
-
 void Check()
 {
     List<byte> numbers1 = new List<byte>() { 5, 6, 7 };

@@ -1,0 +1,15 @@
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/bin/Debug/net8.0/05.LongestSubstring
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/bin/Debug/net8.0/05.LongestSubstring.deps.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/bin/Debug/net8.0/05.LongestSubstring.runtimeconfig.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/bin/Debug/net8.0/05.LongestSubstring.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/bin/Debug/net8.0/05.LongestSubstring.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.AssemblyInfoInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.AssemblyInfo.cs
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.csproj.CoreCompileInputs.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.sourcelink.json
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/refint/05.LongestSubstring.dll
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.pdb
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/05.LongestSubstring.genruntimeconfig.cache
+/Users/erfanmosaddeghi/Projects/code-challenge/src/05.LongestSubstring/obj/Debug/net8.0/ref/05.LongestSubstring.dll
